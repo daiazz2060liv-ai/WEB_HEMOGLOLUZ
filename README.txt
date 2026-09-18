@@ -1,0 +1,1 @@
+Sube index.html y la carpeta assets a la raíz de tu repositorio. Luego activa GitHub Pages con la rama principal que aparece en tu repositorio.
